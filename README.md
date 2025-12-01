@@ -1,1 +1,1 @@
-# simple_linked_list
+# Simple linked list implementation using c++
